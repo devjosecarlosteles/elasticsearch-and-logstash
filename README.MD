@@ -2,7 +2,11 @@
 
 ## Run
 
-    docker-compose up
+    docker-compose up -d
+
+## Verificar Logs 
+
+docker-compose logs logstash
 
 ## Fontes
 

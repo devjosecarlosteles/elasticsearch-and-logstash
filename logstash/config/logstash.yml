@@ -2,7 +2,3 @@
 ## Aqui passamos onde será feita a conexão com o elasticsearch
 
 http.host: "0.0.0.0"
-xpack.monitoring.elasticsearch.hosts: [ "https://elasticsearch:9200" ]
-
-xpack.monitoring.elasticsearch.username: elastic
-xpack.monitoring.elasticsearch.password: changeme

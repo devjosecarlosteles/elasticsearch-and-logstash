@@ -32,7 +32,7 @@ services:
       ELASTIC_PASSWORD: ${ELASTIC_PASSWORD}
       discovery.type: single-node
     networks:
-      -elk
+      - elk
   
   logstash: 
     build:
